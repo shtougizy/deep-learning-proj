@@ -1,4 +1,5 @@
 ###### 深度学习-技术文档
+
 仓库名：deep-learning-proj
 时间：2024.11-2024.12
 在这段时间内完成了合计五个完整的实验，本篇readme将给出所有实验的实验要求，并完成完整的技术文档撰写。
@@ -9,9 +10,11 @@
 ---
 
 所有实验的实验环境：
+
 GTX4060laptop（8gb显存） i5-13500H  ddr5内存32g  Windows11  anaconda-python3.11  pycharm community edition
 
 环境配置方法：
+
 访问anaconda官网，下载适用于windows11的64位安装包，选择python3.11
 下载完成后双击安装包打开，选择非系统盘（D盘），路径中检查后发现没有汉字
 勾选“Add Anaconda to my PATH environment variable”，或将安装完成后的/bin文件夹添加至环境变量。
@@ -23,6 +26,7 @@ GTX4060laptop（8gb显存） i5-13500H  ddr5内存32g  Windows11  anaconda-pytho
 ---
 #### 实验一
 基于ResNet 的自编码器实现 
+
 • 目标：设计一个基于ResNet架构的自编码器网络，完成图像降维与重建。
 • 具体要求：
 1. 编码器网络基于ResNet，将输入图像的特征降维到 16 维瓶颈表示。
