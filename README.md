@@ -175,8 +175,11 @@ class WideResNet(nn.Module):
 
 ###  三、实验总结
 
-
-
-
+![](https://github.com/shtougizy/deep-learning-proj/blob/main/deeplearning_1/pic/6a47ad5ec60cc4bb80ce2613e4943530.png)
+![](https://github.com/shtougizy/deep-learning-proj/blob/main/deeplearning_1/pic/93993eef081e5c2298dd1d870ac07821.png?raw=true)
+![](https://github.com/shtougizy/deep-learning-proj/blob/main/deeplearning_1/pic/a3205c28d460a2fe191540dc3405c7ab.png?raw=true)
+![](https://github.com/shtougizy/deep-learning-proj/blob/main/deeplearning_1/pic/accuracy.png?raw=true)
+![](https://github.com/shtougizy/deep-learning-proj/blob/main/deeplearning_1/pic/train_loss.png?raw=true)
+总结来说，本实验在150个epochs内达到了最高97%的准确率，虽然仍有较大的进步空间，但圆满地完成了既定的95%准确率的要求。
 
 
